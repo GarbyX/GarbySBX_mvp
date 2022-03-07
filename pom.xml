@@ -11,7 +11,7 @@
 	<groupId>com.garby.garbysx</groupId>
 	<artifactId>garby-sbx</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spark-lms</name>
+	<name>Library_Mgt_Sys
 	<description>Gabriel Software Management System</description>
 
 	<properties>
