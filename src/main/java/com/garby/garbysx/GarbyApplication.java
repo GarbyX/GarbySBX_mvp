@@ -15,9 +15,7 @@ public class GarbyApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-
 		System.out.println("Integrate unit test");
-
 	}
 
 }
